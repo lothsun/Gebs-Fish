@@ -11,7 +11,7 @@ English, Czech, German, Russian, Polish, Hungarian, Italian, Spanish, French, Ch
 
 ### Credits, Contributors, and Friends
 
-lothsun#0001,
+lothsun,
 iiiii#5677
 Gramps#4914,
 NekoSensei,
